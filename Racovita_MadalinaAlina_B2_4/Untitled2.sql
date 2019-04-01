@@ -1,0 +1,1 @@
+select istoric_mariri from studenti where istoric_mariri is not null and id >1020;
